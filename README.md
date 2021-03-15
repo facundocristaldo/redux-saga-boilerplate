@@ -1,4 +1,4 @@
-# This is a boilerplate to React Redux
+# This is a boilerplate to React Redux Sagas
 
 Simple counter that increments and decrements by one.
 
